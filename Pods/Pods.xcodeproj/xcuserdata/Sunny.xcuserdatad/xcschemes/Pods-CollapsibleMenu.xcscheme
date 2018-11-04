@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60E5CF3D94571F7D2F5CD2715E6D36EB"
+               BlueprintIdentifier = "DF55A4C5155E59D26BA3B65B40FD01DE"
                BuildableName = "Pods_CollapsibleMenu.framework"
                BlueprintName = "Pods-CollapsibleMenu"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -47,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60E5CF3D94571F7D2F5CD2715E6D36EB"
+            BlueprintIdentifier = "DF55A4C5155E59D26BA3B65B40FD01DE"
             BuildableName = "Pods_CollapsibleMenu.framework"
             BlueprintName = "Pods-CollapsibleMenu"
             ReferencedContainer = "container:Pods.xcodeproj">

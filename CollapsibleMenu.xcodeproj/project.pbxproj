@@ -111,7 +111,6 @@
 				A3B1E430218EB104007FE6F7 /* Sources */,
 				A3B1E431218EB104007FE6F7 /* Frameworks */,
 				A3B1E432218EB104007FE6F7 /* Resources */,
-				2248F5B559E70C00F50C0C30 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -170,24 +169,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		2248F5B559E70C00F50C0C30 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-CollapsibleMenu/Pods-CollapsibleMenu-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/SlideMenuControllerSwift/SlideMenuControllerSwift.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SlideMenuControllerSwift.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CollapsibleMenu/Pods-CollapsibleMenu-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		F7068EC8815E3FBBA4B138B7 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
